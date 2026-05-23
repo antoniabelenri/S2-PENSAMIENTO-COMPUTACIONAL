@@ -59,13 +59,13 @@
 
 A continuación se anexa el flujo interactivo digitalizado del sistema:
 
-<img src="S2 pensamiento computacional.png" width="550">
+- [Diagrama](https://github.com/antoniabelenri/S2-PENSAMIENTO-COMPUTACIONAL/blob/main/DIAGRAMA%20DE%20FLUJO%20PNG/S2%20pensamiento%20computacional.png?raw=true)
 
 
 ## 5. Links del Proyecto
 
-* [Ver Sketch Pantalla Completa en p5.js](https://editor.p5js.org/antonia.rojas4/full/qV8dELDR_)
-* [Ver y Editar Código en p5.js](https://editor.p5js.org/antonia.rojas4/sketches/qV8dELDR_)
+- [Ver Sketch Pantalla Completa en p5.js](https://editor.p5js.org/antonia.rojas4/full/qV8dELDR_)
+- [Ver y Editar Código en p5.js](https://editor.p5js.org/antonia.rojas4/sketches/qV8dELDR_)
 
 
 ## 6. Conclusión Final del Proyecto
