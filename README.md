@@ -61,7 +61,7 @@ A continuación se anexa el flujo interactivo digitalizado del sistema:
 
 - [Archivo editable](https://www.figma.com/board/0LdH3GfPHd8TVx6FiqhyaP/S2-pensamiento-computacional?node-id=1-2&t=qaM8ldNqj3qOU5tc-1)
 
-- <img src="S2 pensamiento computacional.png" width="550">
+- <img src="https://raw.githubusercontent.com/antoniabelenri/S2-PENSAMIENTO-COMPUTACIONAL/refs/heads/main/DIAGRAMA%20DE%20FLUJO/S2%20pensamiento%20computacional.png" alt="Diagrama de Flujo" width="600">
 
 ## 5. Links del Proyecto
 
