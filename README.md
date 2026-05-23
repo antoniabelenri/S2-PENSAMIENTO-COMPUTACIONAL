@@ -59,8 +59,7 @@
 
 A continuación se anexa el flujo interactivo digitalizado del sistema:
 
-- [Diagrama](https://github.com/antoniabelenri/S2-PENSAMIENTO-COMPUTACIONAL/blob/main/DIAGRAMA%20DE%20FLUJO%20PNG/S2%20pensamiento%20computacional.png?raw=true)
-
+- <img src="S2 pensamiento computacional.png" width="550">
 
 ## 5. Links del Proyecto
 
